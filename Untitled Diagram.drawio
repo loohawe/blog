@@ -1,35 +1,113 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Safari/605.1.15" version="24.7.17">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="1335" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WqJy8LUnr7NX_H78UAhl-231" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="610" width="220" height="290" as="geometry" />
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-223" value="Header Module: 分类 Tab 页头部视图" style="rounded=1;arcSize=6;align=center;verticalAlign=top;fontSize=15;whiteSpace=wrap;html=1;spacingTop=6;fillStyle=auto;fillColor=#DEDEDE;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="391" y="360" width="659" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="WqJy8LUnr7NX_H78UAhl-223" value="Header Module" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;align=center;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="390" y="360" width="490" height="160" as="geometry" />
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-224" value="Left Category Module:&amp;nbsp;&lt;div style=&quot;font-size: 15px;&quot;&gt;左侧一级类目&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;verticalAlign=top;spacingTop=4;strokeColor=none;fillColor=#DEDEDE;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="391" y="500" width="150" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="WqJy8LUnr7NX_H78UAhl-224" value="Left Category Module" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="380" y="600" width="150" height="200" as="geometry" />
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-225" value="Right Category Module: 右侧二三级类目" style="rounded=1;whiteSpace=wrap;html=1;glass=0;arcSize=1;verticalAlign=top;fillColor=#DEDEDE;strokeColor=none;spacingTop=4;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="550" y="500" width="500" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="WqJy8LUnr7NX_H78UAhl-225" value="Right Category Module" style="rounded=1;whiteSpace=wrap;html=1;glass=0;arcSize=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="585" y="570" width="330" height="380" as="geometry" />
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-226" value="Search &amp;nbsp;Bar: 搜索框" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="400" width="600" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WqJy8LUnr7NX_H78UAhl-226" value="Search &amp;nbsp;Bar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="475" y="414" width="320" height="60" as="geometry" />
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-227" value="Left Cell: 类目 Cell" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="406" y="742" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WqJy8LUnr7NX_H78UAhl-227" value="Left Cell" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-231" value="Vertical Pages: 上下滑动组件" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;spacingTop=7;arcSize=1;fillColor=#C2C2C2;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="550" width="460" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="WqJy8LUnr7NX_H78UAhl-228" value="Category Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="715" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-228" value="Category Module: 类目模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="620" width="420" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WqJy8LUnr7NX_H78UAhl-229" value="Discount Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="715" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-229" value="Discount Module: 折扣模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="661" width="420" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="WqJy8LUnr7NX_H78UAhl-230" value="Recommend Goods Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="715" y="810" width="120" height="60" as="geometry" />
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-230" value="Recommend Goods Module: 推荐模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="700" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-232" value="Benefit Bar: 利益条" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="440" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-237" value="Round Title: 圆角 Title" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="580" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-241" value="分类落地页" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=2;fillColor=#DEDEDE;strokeColor=none;spacingTop=6;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="390.5" y="1350" width="659" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-242" value="Navigation Bar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-243" value="Category Items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-244" value="Sub Category Iitems" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-245" value="Filter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-246" value="Benefit Bar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="1840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-247" value="Goods List" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-248" value="Recommend Goods List" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="2020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-249" value="PinAssist" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="2280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-251" value="Report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="2210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-252" value="Landing Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="2200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-253" value="Network" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="2190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-254" value="BGCategory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="2280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-255" value="ParamKit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-258" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;非 UI 组件&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillStyle=auto;fillColor=none;verticalAlign=top;spacingTop=5;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="595" y="750" width="415" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-240" value="Right Network: 网络请求模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="787" width="392.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-239" value="Right View Model: 数据管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="827" width="392.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-259" value="Right Service: 事件管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="868" width="392.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-260" value="Right Reporter: PMM 上报管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="608" y="910" width="392" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-261" value="BG Category: 全局配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="609" y="952" width="391" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-262" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;非 UI 组件&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#DEDEDE;strokeColor=default;dashed=1;verticalAlign=top;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="391" y="1049" width="660" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-234" value="&amp;nbsp;&lt;span&gt;Category&amp;nbsp;&lt;/span&gt;Service: 事件服务" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="406" y="1086" width="174" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-233" value="Reporter: 上报管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="639" y="1086" width="174" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="WqJy8LUnr7NX_H78UAhl-235" value="BG Category: 全局配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="863" y="1086" width="174" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
